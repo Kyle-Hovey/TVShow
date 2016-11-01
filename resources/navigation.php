@@ -17,23 +17,23 @@
 
           <div id="navbar" class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
-                <li class="active"><a href="index.html">Home</a></li>
-                <li><a href="more_info.html">More Information</a></li>
-                <li><a href="stream.html">Watch Now</a></li>
+                <li class="active"><a href="index.php">Home</a></li>
+                <li><a href="more_info.php">More Information</a></li>
+                <li><a href="stream.php">Watch Now</a></li>
                 <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown">The Show<b class="caret"></b></a>
                   <ul class="dropdown-menu">
-                    <li><a href="about.html">About</a></li>
-                    <li><a href="cast.html">Meet the Cast</a></li>
-                    <li><a href="episodes.html">Episode List</a></li>
-                    <li><a href="locations.html">Filming Locations</a></li>
+                    <li><a href="about.php">About</a></li>
+                    <li><a href="cast.php">Meet the Cast</a></li>
+                    <li><a href="episodes.php">Episode List</a></li>
+                    <li><a href="locations.php">Filming Locations</a></li>
                   </ul>
                 </li>
                 <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown">The Studio<b class="caret"></b></a>
                   <ul class="dropdown-menu">
-                    <li><a href="sponsors.html">Sponsors</a></li>
-                    <li><a href="careers.html">Careers</a></li>
+                    <li><a href="sponsors.php">Sponsors</a></li>
+                    <li><a href="careers.php">Careers</a></li>
                   </ul>
                 </li>
             </ul>
