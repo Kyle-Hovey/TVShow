@@ -24,7 +24,7 @@
 
    <body>
 
-   <? include '../resources/navigation.php'; ?>
+   <?php include '../resources/navigation.php'; ?>
 
       <div class = "container below_menu_container">
         <div class="jumbotron">
@@ -44,7 +44,7 @@
 	</div>
 	<script async src="https://static.addtoany.com/menu/page.js"></script>
 
-      <footer>&copy; Copyright 2016, Hovey Kirkpatrick Studios</footer><br>
+  <?php include '../resources/footer.php'; ?>
 
          <!-- Scripts required to make Bootstrap work better. -->
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
